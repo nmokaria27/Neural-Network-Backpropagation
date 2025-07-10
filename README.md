@@ -38,8 +38,3 @@ To explore this project, it's recommended to follow the notebooks in order:
 2.  Move on to `MLP-Backprop.ipynb` to see how the automated engine is used to train a complete neural network to solve a classification problem.
 
 ![alt text](https://github.com/nmokaria27/Neural-Network-Backpropagation/blob/main/two-moon.png)
-
-
-## Acknowledgements
-
-This entire project is a hands-on implementation based on the concepts taught by Andrej Karpathy in his `micrograd` lecture. All credit for the original concepts, structure, and teaching approach goes to him.
