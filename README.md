@@ -12,7 +12,7 @@ The engine and notebooks demonstrate the core principles of training a neural ne
 
 3.  **Backpropagation**: The project implements a `backward()` method that traverses the computation graph from end to start, applying the **chain rule** at every step to automatically calculate the gradient of the final output with respect to every intermediate value and input.
 
-![alt text]([http://url/to/img.png](https://github.com/nmokaria27/Neural-Network-Backpropagation/blob/main/gd.svg))
+![alt text](https://github.com/nmokaria27/Neural-Network-Backpropagation/blob/main/gd.svg)
 
 
 4.  **Neural Network Components**: Built on top of the `Value` engine are simple, Pythonic classes for:
